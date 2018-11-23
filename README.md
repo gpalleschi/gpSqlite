@@ -1,10 +1,8 @@
-#gpString
+#gpSqlite
 
-gpString is a C library providing some funcionality compared to standard string processing functions in C.
+gpSqlite is a C library providing some funcionalities to use sqlite db 
 
-gpString does not aim to replace standard library string processing functions but introduces new functions.
-
-gpString is developed by mailto:[gpsoftskyballs@gmail.com]
+gpSqlite is developed by mailto:[gpsoftskyballs@gmail.com]
 
 == Version History
 
@@ -15,7 +13,7 @@ gpString is developed by mailto:[gpsoftskyballs@gmail.com]
 
 == License
 
-gpString can be distributed, modified and used under the terms of GNU General Public License. 
+gpSqlite can be distributed, modified and used under the terms of GNU General Public License. 
 
 Giovanni Palleschi
 mailto:gpsoftskyballs@gmail.com 
